@@ -2,8 +2,6 @@
 	 <img src="https://noskid.today/badge/100x30/?repo=phlixy/phlixy" alt="NoSkid Verification">
 </p>
 
-<a href="#"><img align="right" src="https://readme-card-themackabu.vercel.app/api/top-langs/?username=phixy&hide=java,html,ruby,roff&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>
-
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
 </p>
